@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System; // Represents the standard input, output, and error streams for console applications. This class cannot be inherited.
 
 namespace C_Sharp_Practice
 {
